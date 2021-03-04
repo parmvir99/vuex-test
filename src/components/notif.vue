@@ -28,7 +28,7 @@ export default {
   background:green;
   padding:20px;
   color:#fff;
-  position:absolute;
+  position:fixed;
   right:20px;
   top:20px;
 }
